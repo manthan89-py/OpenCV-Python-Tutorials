@@ -1,8 +1,8 @@
 import numpy as np
 import cv2
 
-img = cv2.imread('messi5.jpg')
-img2 = cv2.imread('opencv-logo.png')
+img = cv2.imread('test_images/messi5.jpg')
+img2 = cv2.imread('test_images/opencv-logo.png')
 
 print(img.shape) # row , column , channles
 print(img.size) # total number of pixels

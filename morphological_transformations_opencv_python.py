@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 ## For this we need two things :- Image , kernel => which decide nature of operation.
 ## This operation only performs on BINARY images that why we read image in grayscale.
 
-img = cv2.imread('smarties.png' , cv2.IMREAD_GRAYSCALE)
+img = cv2.imread('test_images/smarties.png' , cv2.IMREAD_GRAYSCALE)
 _, mask = cv2.threshold(img,220,225,cv2.THRESH_BINARY_INV)
 
 ## Dilation : Increase the area

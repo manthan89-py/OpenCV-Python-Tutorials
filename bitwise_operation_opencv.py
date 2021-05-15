@@ -4,7 +4,7 @@ import numpy as np
 # height width channls
 img1 = np.zeros((250,500,3) , np.uint8)
 img1 = cv2.rectangle(img1,(200,0),(300,100) , (255,255,255) , -1)
-img2 = cv2.imread('messi5.jpg')
+img2 = cv2.imread('test_images/messi5.jpg')
 
 cv2.imshow('Main image1' , img1)
 cv2.imshow('Main image2' , img2)

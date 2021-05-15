@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-# img = cv2.imread('lena.jpg', 1)
+# img = cv2.imread('test_images/lena.jpg', 1)
 
 # img with numpy
 img = np.zeros([600,600,3] , np.uint8 )

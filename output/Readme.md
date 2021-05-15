@@ -6,3 +6,9 @@
 
 # Threshold the Images
 <img src="threshold_matplotlib.png">
+
+# Edge Detection Algorithms
+<img src="edge_detection_algorithms.png">
+
+# Canny Edge Detection
+<img src="canny_edge_detection.png">

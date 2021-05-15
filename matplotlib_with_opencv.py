@@ -2,7 +2,7 @@ import cv2
 
 from matplotlib import pyplot as plt
 
-img = cv2.imread('lena.jpg' , -1)
+img = cv2.imread('test_images/lena.jpg' , -1)
 
 plt.imshow(img)
 plt.title('BGR Format Image')

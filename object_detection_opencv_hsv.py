@@ -18,7 +18,7 @@ cv2.createTrackbar('UV' , 'Tracking',255,255,nothing)
 
 
 while True:
-    # frame = cv2.imread('smarties.png') #### For Image
+    # frame = cv2.imread('test_images/smarties.png') #### For Image
 
     _ , frame = cap.read()
 

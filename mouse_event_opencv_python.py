@@ -38,7 +38,7 @@ def event_click(event , x , y , flags , param):
 
 
 # img = np.zeros([512,512,3] , np.uint8)
-img = cv2.imread('lena.jpg')
+img = cv2.imread('test_images/lena.jpg')
 cv2.imshow('image' , img)
 points = []
 # window name must be same

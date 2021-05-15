@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="test_images/opencv-logo.png" height=450 width=350>
+</p>
+
 # OpenCV Tutorials⭐:
 
 ## Follow Tutorial Files in Below Sequence⭐:
@@ -15,6 +19,9 @@
 * simple_thresholding_matplotlib_with_python.py
 * morphological_transformation_opencv_python.py
 * smoothing_images_and_blurring_images.py
+* image_gradients.py
+* canny_edge_detection.py
+* image_pyramids_opencv.py
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/
