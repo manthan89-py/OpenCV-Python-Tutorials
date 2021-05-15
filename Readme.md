@@ -21,4 +21,4 @@
 * Matplotlib : https://matplotlib.org/stable/contents.html
 * Numpy : https://numpy.org/doc/stable/
 
-<p>Images Are Taken From Here: https://github.com/opencv/opencv/tree/master/samples/data</p>
+### Sample Images : https://github.com/opencv/opencv/tree/master/samples/data
