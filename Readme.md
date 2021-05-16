@@ -25,6 +25,9 @@
 * image_blending_using_pyramids_opencv.py
 * Find_and_draw_contours_using_opencv.py
 * basic_motion_detection_using_opencv.py
+* shape_detection_opencv.py
+* histogram_opencv.py
+* template_matching_opencv.py
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/
