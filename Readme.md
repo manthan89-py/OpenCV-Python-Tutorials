@@ -22,6 +22,9 @@
 * image_gradients.py
 * canny_edge_detection.py
 * image_pyramids_opencv.py
+* image_blending_using_pyramids_opencv.py
+* Find_and_draw_contours_using_opencv.py
+* basic_motion_detection_using_opencv.py
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/
