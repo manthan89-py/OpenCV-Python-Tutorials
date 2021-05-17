@@ -13,5 +13,5 @@
 # Canny Edge Detection
 <img src="canny_edge_detection.png">
 
-# Approximation Of Geometircal Shapes
+# Approximation Of Geometrical Shapes
 <img src="approximation_of_shapes.png">
