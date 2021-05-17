@@ -35,6 +35,7 @@
 * face_detection_opencv.py
 * harris_corner_detection.py
 * shi_tomasi_corner_detection.py
+* background_subtraction_opencv.py
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/
