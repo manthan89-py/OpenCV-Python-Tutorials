@@ -30,6 +30,10 @@
 * template_matching_opencv.py
 * hough_line_transform_opencv.py
 * probabilistic_hough_line_transform.py
+* lande_detection_opencv.py
+* circle_detection_using_hough_transform.py
+* face_detection_opencv.py
+
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/
