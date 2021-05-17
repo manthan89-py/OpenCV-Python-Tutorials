@@ -33,7 +33,8 @@
 * lande_detection_opencv.py
 * circle_detection_using_hough_transform.py
 * face_detection_opencv.py
-
+* harris_corner_detection.py
+* shi_tomasi_corner_detection.py
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/
