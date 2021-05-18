@@ -33,9 +33,11 @@
 26. lane_detection_opencv.py
 27. circle_detection_using_hough_transform.py
 28. face_detection_opencv.py
-29. harris_corner_detection.py
-30. shi_tomasi_corner_detection.py
-31. background_subtraction_opencv.py
+29. eyes_detection_opencv.py
+30. harris_corner_detection.py
+31. shi_tomasi_corner_detection.py
+32. background_subtraction_opencv.py
+33. meanshift_object_tracking_opencv.py
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/
