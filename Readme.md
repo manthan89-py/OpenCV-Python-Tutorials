@@ -38,6 +38,16 @@
 31. shi_tomasi_corner_detection.py
 32. background_subtraction_opencv.py
 33. meanshift_object_tracking_opencv.py
+34. camshift_object_tracking_opencv.py
+
+## Cascade Information⭐:
+#### Download Following Resources for Corosponding Tutorials.
+
+* Face-detection :- https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+
+* Eyes Detection :- https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye_tree_eyeglasses.xml
+
+Other Cascade :- https://github.com/opencv/opencv/tree/master/data/haarcascades
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/

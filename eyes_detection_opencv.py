@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 
 # You have to download both cacasde file from internet
+# Download link is in readme.md file of this repository.
+
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eyes_cascade = cv2.CascadeClassifier('haarcascade_eye_tree_eyeglasses.xml')
 
