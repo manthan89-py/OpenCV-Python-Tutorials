@@ -39,15 +39,26 @@
 32. background_subtraction_opencv.py
 33. meanshift_object_tracking_opencv.py
 34. camshift_object_tracking_opencv.py
+    
+<br>
+
+## Credits ❤️:
+* This repository contains all the code from ProgrammingKnowledge Opencv Course.
+* Youtube Video : https://www.youtube.com/watch?v=N81PCpADwKQ
+* Duration : 9 hour 23 mintues
+
+<br>
 
 ## Cascade Information⭐:
 #### Download Following Resources for Corosponding Tutorials.
 
-* Face-detection :- https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+* Face Detection :- https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
 * Eyes Detection :- https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye_tree_eyeglasses.xml
 
 Other Cascade :- https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+<br>
 
 ## Helpful Documentations⭐:
 * OpenCV : https://docs.opencv.org/master/
